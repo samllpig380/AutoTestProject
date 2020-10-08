@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Test>
+  <Action id="1">
+    <mouse x="723" y="478" click="L" dbclick="0" time="1601818168161"/>
+    <keyboard keyValue="71" time="1601818169207"/>
+    <keyboard keyValue="85" time="1601818169380"/>
+    <keyboard keyValue="69" time="1601818169504"/>
+    <keyboard keyValue="83" time="1601818169676"/>
+    <keyboard keyValue="84" time="1601818169879"/>
+    <mouse x="730" y="510" click="L" dbclick="0" time="1601818171252"/>
+    <keyboard keyValue="71" time="1601818172157"/>
+    <keyboard keyValue="85" time="1601818172533"/>
+    <keyboard keyValue="69" time="1601818172720"/>
+    <keyboard keyValue="83" time="1601818172938"/>
+    <keyboard keyValue="84" time="1601818173126"/>
+    <mouse x="855" y="580" click="L" dbclick="0" time="1601818175341"/>
+  </Action>
+</Test>

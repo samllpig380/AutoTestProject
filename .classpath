@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/javasoft/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/poi/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/poi/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/poi/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/poi/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/poi/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/poi/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/otherJar/freemarker-2.3.13.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/beautyeye-3.6/beautyeye-3.6/dist/beautyeye_lnf.jar" sourcepath="/beautyeye_v3.6_utf8"/>
+	<classpathentry kind="lib" path="D:/javasoft/otherJar/dom4j-1.6.1/lib/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/otherJar/jna.jar"/>
+	<classpathentry kind="lib" path="D:/javasoft/otherJar/platform.jar" sourcepath="D:/javasoft/otherJar/platform/com/sun/jna/platform/win32"/>
+	<classpathentry kind="lib" path="D:/webDriver/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
